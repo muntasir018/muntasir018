@@ -1,4 +1,4 @@
-# Hey, I'm Muntasir 👋
+# Hey, I'm Tahasinur Rahman Muntasir👋
 
 I build things that solve real problems — clean, functional, and designed to feel premium.
 
